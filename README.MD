@@ -135,15 +135,6 @@ curl -X POST "http://localhost:8000/research" \
 
 ---
 
-## ⚠️ Common Issues
-
-| Error | Fix |
-|-------|-----|
-| `ModuleNotFoundError` | Run `pip install -r requirements.txt` |
-| `groq.RateLimitError` | Free tier limit hit — wait 1 minute and retry |
-| `model decommissioned` | Change model to `llama-3.3-70b-versatile` in `agents.py` |
-| `KeyError: search_result` | Check for typo — `search_result` not `search_results` |
-| `TAVILY_API_KEY not found` | Make sure `.env` file is in the `app/` folder |
 
 ---
 
