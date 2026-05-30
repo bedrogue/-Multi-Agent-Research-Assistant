@@ -1,0 +1,22 @@
+
+langchain-groq
+langchain 
+langchain-core 
+langchain-community 
+langgraph
+ groq 
+ beautifulsoup4 
+ tavily-python
+requests pydantic 
+python-dotenv 
+httpx 
+numpy 
+pandas 
+aiohttp 
+urllib3 
+python-dateutil 
+typing-extensions 
+colorama
+tqdm
+fastapi 
+uvicorn
